@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_settings">Check (Test) </string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+
+    <string name="add_id_app_keyword">Enter Keyword</string>
+    <string name="add_id_app_package">Enter App\'s Package</string>
+    <string name="add_id_app_country">Choose the Country</string>
+    <string name="add_id_app_name">Enter App\'s Name</string>
+
+    <string name="btn_add_database">Add to Database</string>
+
+    <string name="check_yes"> Apps Exists !!! Rank : </string>
+    <string name="check_no"> Not Found !!! \n Try Again </string>
+
+    <string name="enter_name">Enter App\'s Name !</string>
+
+    <string-array name="array_country">
+        <item>Vietnam</item>
+        <item>USA</item>
+        <item>Myanmar</item>
+        <item>Malaysia</item>
+        <item>Laos</item>
+        <item>Cambodia</item>
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Philippines</item>
+        <item>...</item>
+    </string-array>
+</resources>
